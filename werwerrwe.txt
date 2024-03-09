@@ -68,21 +68,32 @@ Question : In the Barrows minigame, how many Barrows brothers are there to defea
 Question : Which city in OSRS is the headquarters of the Fremennik Province?
 
 	Answer: "Rellekka"
+
+Question : Which Bar Requires 70 smithing to smelt?
+
+	Answer : Adamanatite Bar
 _________________________________________________________________________________________
 for the 7th question I will ask an easy question from the top
 
 prizes will be 1.5M Each
 These will be the hardest Difficulty:
 
-Question :  What is the name of the boss encountered at the end of the Monkey Madness II quest in OSRS?
+Question :  What is the name of the boss at the end of the Monkey Madness II?
 
 		Answer: "Glough"
 
-Question : What is the name of the spellbook used to cast ancient magicks in OSRS?
-
-		Answer: "Ancient Magicks" or "Ancient Spellbook"
 
 Question : Which Slayer level is required to slay dust devils?
 		
 		Answer : 65
+
+Question : What is the Attack bonus % given by chivarly?
+ 
+		Answer : 15 or 15%
+
+Question : Which tree is unlocked at level 75 Woodcutting?
+
+		Anwer : Magic 
+
+
 
