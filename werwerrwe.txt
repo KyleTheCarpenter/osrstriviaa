@@ -30,14 +30,12 @@ these prizes will be 500k
    Question: Who owns the Axe shop in lumbridge?
 	Bob
 
-   Question: Which skill is used to make Law Runes?
-	Runecrafting
+   SOPHIE***   Question: Which skill is used to make Law Runes?
+		Runecrafting
 
    Question: What's the highest achievable skill level?
 	Answer: 99
 
-   Question : What's OSRS's continent called?
-        Answer: Gielinor
 
    Question: What's the highest wilderness level?
 	Answer: 56
@@ -58,7 +56,7 @@ Question : What is the requirement to equip a Dragon Defender?
 
 	Answer: "60 Attack"
 
-Question : Which city in OSRS is known as the "City of the Elves"?
+SOPHIE **** Question : Which city in OSRS is known as the "City of the Elves"?
 
 	Answer: "Prifddinas" (make sure spelling is exact)
 
@@ -87,7 +85,7 @@ Question : Which Slayer level is required to slay dust devils?
 		
 		Answer : 65
 
-Question : What is the Attack bonus % given by chivarly?
+sophie ***** Question : What is the Attack bonus % given by chivarly?
  
 		Answer : 15 or 15%
 
